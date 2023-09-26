@@ -23,7 +23,7 @@ public class FabricaDeAluno {
 
         System.out.println(aluno2.getNome());
         //System.out.println(aluno2.getTelefones().toArray());
-        System.out.println(aluno2.getCpf().getNumero());
+        System.out.println(aluno2.getCpf());
         System.out.println(aluno2.getEmail());
 
     }
